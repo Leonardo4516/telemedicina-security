@@ -1,0 +1,14 @@
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/exceptions/DomainException.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/exceptions/InvalidCredentialsException.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/exceptions/UserNotFoundException.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/model/RefreshToken.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/model/Role.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/model/User.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/model/UserStatus.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/patient/model/Patient.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/patient/port/PatientRepository.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/ports/PasswordService.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/ports/RefreshTokenRepository.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/ports/RoleRepository.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/ports/TokenService.java
+/home/Papi_Leo/VSCODE/SpringBoot/telemedicina-security/domain/src/main/java/com/telemedicina/domain/ports/UserRepository.java

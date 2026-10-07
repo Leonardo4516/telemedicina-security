@@ -1,0 +1,14 @@
+com/telemedicina/application/dto/LoginRequest.class
+com/telemedicina/application/usecase/CreateUserUseCase.class
+com/telemedicina/application/dto/RoleResponse.class
+com/telemedicina/application/patient/dto/PatientResponse.class
+com/telemedicina/application/dto/RegisterRequest.class
+com/telemedicina/application/usecase/RefreshTokenUseCase.class
+com/telemedicina/application/patient/usecase/RegisterPatientUseCase.class
+com/telemedicina/application/usecase/LoginUseCase.class
+com/telemedicina/application/dto/LoginResponse.class
+com/telemedicina/application/patient/usecase/ListPatientsUseCase.class
+com/telemedicina/application/patient/command/RegisterPatientCommand.class
+com/telemedicina/application/dto/RefreshTokenRequest.class
+com/telemedicina/application/usecase/GetCurrentUserUseCase.class
+com/telemedicina/application/dto/UserResponse.class
